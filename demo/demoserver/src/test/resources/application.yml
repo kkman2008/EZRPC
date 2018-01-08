@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: com.ezrp.ezrpcsimple.demoserver
+server:
+  port: 8888
+

@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: com.ezrp.ezrpcsimple.democlient
+server:
+  port: 9999
+
